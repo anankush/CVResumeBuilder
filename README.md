@@ -2,6 +2,8 @@
 
 A modern, ATS-optimized Resume and Bio-Data builder designed to help job seekers bypass automated recruitment filters and land more interviews.
 
+🌐 **Live Application:** [cvresumebuilder.web.app](https://cvresumebuilder.web.app)
+
 ---
 
 ## 🎯 Why It Matters (The Problem It Solves)
@@ -49,3 +51,10 @@ Over **75% of resumes are rejected by Applicant Tracking Systems (ATS)** before 
 
 ### 7. 📂 Multi-Resume Management
 - Create, duplicate, and manage multiple resume versions tailored to different job applications from a single account.
+
+---
+
+## 🚀 Get Started
+
+Visit the live platform to start building your ATS-ready resume:  
+👉 **[Launch CVResumeBuilder](https://cvresumebuilder.web.app)**
