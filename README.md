@@ -3,6 +3,7 @@
 A modern, ATS-optimized Resume and Bio-Data builder designed to help job seekers bypass automated recruitment filters and land more interviews.
 
 [![Live App](https://img.shields.io/badge/Live_App-Launch_Builder-2563eb?style=for-the-badge&logo=rocket&logoColor=white)](https://cvresumebuilder.web.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itznayan)
 
 ---
 
@@ -58,3 +59,10 @@ Over **75% of resumes are rejected by Applicant Tracking Systems (ATS)** before 
 
 Build and download your ATS-friendly resume directly in your browser:  
 👉 **[Launch Application](https://cvresumebuilder.web.app)**
+
+---
+
+## 👨‍💻 Connect
+
+For feedback, collaboration, or queries:  
+👉 **[Connect on LinkedIn](https://linkedin.com/in/itznayan)**
